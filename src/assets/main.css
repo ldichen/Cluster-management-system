@@ -1,0 +1,7 @@
+/* @import './base.css'; */
+html,
+body,
+#app {
+  width: 99%;
+  height: 99%;
+}
