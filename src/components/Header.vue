@@ -3,13 +3,8 @@
     <div class="header-wrapper">
       <img src="../assets/Logo.png" alt="GMS" class="GMS-logo" />
       <div id="header-title">
-        <!-- <div class="GMS-logo" link="vue-CQB\src\assets\Logo.png"></div> -->
         <div>实验室集群控制平面</div>
       </div>
-      <!-- <el-menu>
-      <el-menu-item index="Home">首页</el-menu-item>
-      <el-menu-item index="File">网盘</el-menu-item>
-    </el-menu> -->
     </div>
   </el-header>
 </template>
